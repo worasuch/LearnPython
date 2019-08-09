@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd508c82-200b-49db-b9ab-ed77e1f84d00" name="Default Changelist" comment="" />
+    <list default="true" id="bd508c82-200b-49db-b9ab-ed77e1f84d00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OsbFa2FBHWmtjo8A0tba9rPIa9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.foot_inch_op_overloading">
+  <component name="RunManager" selected="Python.equal_instance">
     <configuration name="Inheritance_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,8 +146,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.foot_inch_op_overloading" />
         <item itemvalue="Python.equal_instance" />
+        <item itemvalue="Python.foot_inch_op_overloading" />
         <item itemvalue="Python.Inheritance_demo1" />
         <item itemvalue="Python.property_accessor_pythonic_way" />
         <item itemvalue="Python.bmi" />
@@ -156,5 +166,16 @@
       <updated>1564769148330</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
